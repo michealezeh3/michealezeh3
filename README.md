@@ -10,7 +10,7 @@
 - JavaScript (ES6+)
 - React.js
 - Angular
-- Laravel
+- Laravel (PHP)
 - Wordpress 
 - Responsive Design and Bootstrap
 - Front-end Build Tools (Webpack)
