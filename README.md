@@ -1,10 +1,8 @@
 - 👋 Hi, I’m @michealezeh3
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning ruby
-- 💞️ I’m looking to collaborate on php
-- 📫 How to reach me michealezeh3@gmail.com
-
-<!---
-michealezeh3/michealezeh3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I'm a passionate Full-stack Developer with a love for building robust web applications. My goal is to create innovative solutions that make a positive impact on users' experiences.
+- 🌱 I’m currently learning about GraphQL for more efficient API development.
+- 🔭 I’m currently working on a real-time chat application using Node.js and Socket.io.
+- 👯 I’m looking to collaborate on open-source projects related to accessibility in web development.
+- 🤔 I’m looking for help with optimizing database queries for large-scale applications.
+- 💬 Ask me about React, Express.js, or anything related to front-end development!
+- 📫 How to reach me michealezeh3@gmail.com, info@michealezeh.com.ng
